@@ -1,5 +1,5 @@
 {
-    "name": "cypresslab/gitelephant",
+    "name": "sgn/gitelephant",
     "description": "An abstraction layer for git written in PHP 5.3",
     "keywords": ["git"],
     "homepage": "http://matteosister.github.com/GitElephant",
@@ -9,6 +9,10 @@
         {
             "name": "Matteo Giachino",
             "email": "matteog@gmail.com"
+        },
+        {
+            "name": "Kevin Eyermann",
+            "email": "kevin.eyermann@ign.fr"
         }
     ],
     "require": {
